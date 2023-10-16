@@ -13,3 +13,7 @@ The whole scrapper uses proxy rotation. It searches for current available free p
 an SQL database, it is proceeded by "proxy_.py" script. The tax agency's web site is very strict to proxy 
 connections, it makes the scraping process to take quite a few time, however the system is stable and eventually
 gets its job done. 
+
+This repository also contains two excel files: "sites Белгород.xlsx" with the company names of a town of Belgorod
+and "test_comp_info.xlsx" containing a sample of data that was scraped from the previous company list. There are
+a lot of "none" cells, it is an issue of companies that were already closed at the time of scraping.
