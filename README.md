@@ -1,6 +1,6 @@
 # Tax_agency_web_scraper
 
-Web scrapper of companies' financial statements through the web site of the Tax Agency of Russia - pb.nalog.ru. 
+Python requests powered web scrapper of companies' financial statements through the web site of the Tax Agency of Russia - pb.nalog.ru. 
 Code starts with "Nologi_comp_info.py" script. This script initiates the whole scraping process, opens 
 a source data xlsx file containing company names and composes final xlsx file with all of the results
 found.
